@@ -1,0 +1,14 @@
+section {
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    border: 15px solid purple;
+}
+img {
+    width: 200px;
+    height: 200px;
+    background-color: lightcoral;
+    /* TODO: ADD A MARGIN PROPERTY */
+    /* TODO: ADD A PADDING PROPERTY */
+    /* TODO: ADD A BORDER PROPERTY */
+}
